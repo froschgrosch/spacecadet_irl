@@ -1,0 +1,493 @@
+3D Pinball for Windows
+
+Space Cadet Table Rules and Game Strategy
+
+Copyright (c) Cinematronics 1995
+
+
+
+Table Of Contents
+
+1.0	Overview
+2.0	Basic Strategy
+3.0	Intermediate Strategy
+4.0	Advanced Strategy
+5.0	Table Components
+6.0	General Table Rules
+
+
+1.0	Overview
+
+This document contains the complete rules for the space cadet table in 3D Pinball for Windows. It was created for Microsoft by Maxis and Cinematronics. 
+
+To view a picture of the space cadet table that identifies the bumpers, lights, rebounds, target banks, and other objects on the table, double-click the Table.bmp file in the Pinball subfolder of your Microsoft Plus! folder.
+
+The goal of the game is to progress in rank from Space Cadet to Fleet Admiral. This is achieved by selecting and completing a series of missions. New and more challenging missions become available as you progress in rank.
+
+The game is divided into three levels of play; basic, intermediate, and advanced. The objective of all levels is to achieve the highest point total. The more advanced the level of play, the greater the point reward.
+
+
+2.0	Basic Strategy
+
+At the most basic level of play, you do not need to understand how to progress in rank or accomplish missions. You can play to simply score points by hitting objects on the table. Score values are small but are easy to obtain. 
+
+
+3.0  	Intermediate Strategy
+
+At the intermediate level of play, you complete simple sequences or perform specially timed shots to gain additional play modes and higher point rewards. At this level, nudging the table helps you attain these goals.
+
+3.1  Skill Shot
+
+You perform a skill shot by launching the ball only partway up the deployment chute and letting it fall back down the chute and onto the main table. Points are awarded based on how many deployment lights are lit:
+
+			Number of Lights	Points Awarded
+
+			One 			15,000
+			Two 			30,000
+			Three 			75,000
+			Four 			30,000
+			Five 			15,000
+			Six 			7,500
+
+3.2  Reflex Shot
+
+You get 25,000 points for a reflex shot when the ball has just exited the launch ramp or hyperspace chute and you execute a quick return shot back to the same location. The reflex shot light in the hyperspace chute is set each time the ball lands in the hyperspace kickout. The reflex shot light for the launch ramp is set each time the ball drains from the ramp and it must be on to obtain the points.  The reflex shot light goes off after five seconds.
+
+3.3  Bonus
+
+To activate the bonus, you must knock down the targets in the booster target bank three times. 25,000 bonus points are awarded when the ball drains or before the ball drains if the bonus light is on and the ball passes through the bonus lane.
+
+3.4  Jackpot
+
+To activate the jackpot, knock down all the targets in the booster target bank twice. You get 20,000 jackpot points after shooting the ball into the hyperspace chute twice. After that, points are added to the jackpot if you hit special table components or perform special actions. Points are not added while the jackpot is not active. 
+
+3.5  Gravity Well
+
+To activate the gravity well, you must shoot the ball into the hyperspace kickout five times in a row. When the gravity well is active, gravity shifts to the center of the table.  If the ball gets stuck on the gravity well, it is shot out in a random direction and you are awarded 50,000 points. After the ball is ejected, the gravity well is turned off.
+
+3.6  Nudging and Tilting the Table
+
+You can nudge the table to the left, to the right, and upwards. If you nudge the table too much, it will tilt. When the table tilts, all components stop working until the ball drains and the tilt light, which is a large, red X above the left rebound, goes on. The table is reset with the next ball.  
+
+
+4.0  	Advanced Strategy
+
+At the advanced level, you complete missions and receive promotions to move up in rank from Cadet to Fleet Admiral. Your current rank is tracked by the rank lights (the inner ring of nine lights in the center of the table.)  Your progress is tracked by the progress lights (the outer ring of 18 lights.)  
+
+Missions are selected through the mission target bank on the left side of the table. You select a mission by sending the ball up the launch ramp. If a mission is accepted, you have must perform a sequence of tasks to complete it. When you complete a mission, one or more progress light are turned on. When all the progress lights are on, you move up in rank.  The types of missions you must complete depend on your current rank.
+
+4.1  Ranks
+
+The table below describes the ranks that correspond to the number of rank lights that are lit up.
+
+		Number of Lights	Rank
+
+		1			Cadet
+		2			Ensign
+		3			Lieutenant
+		4			Captain
+		5			Lt. Commander
+		6			Commander
+		7			Commodore
+		8			Admiral
+		9			Fleet Admiral
+
+4.2  Missions
+
+Cadet
+
+The following Cadet missions, what you need to do to accomplish each one, and the rewards you receive are described below:
+
+Target Practice:  Hit eight attack bumpers to receive six progress lights and 500,000 points.
+Re-Entry Training: Send the ball down the re-entry lanes three times to receive six progress lights and 500,000 points.
+Launch Training:  Send the ball up the launch ramp three times to receive six progress lights and 500,000 points.
+Science Mission:  Hit nine drop targets to receive nine progress lights and 750,000 points.
+
+Ensign and Lieutenant
+
+The following Ensign and Lieutenant missions, what you need to do to accomplish each one, and the rewards you receive are described below:
+
+Bug Hunt:  Hit 15 targets to receive seven progress lights and 750,000 points.
+Rescue Mission:  Upgrade the flags through the booster target bank, then hit the hyperspace kickout to receive seven progress lights and 750,000 points.
+Alien Menace:  Upgrade the attack bumpers through the re-entry lanes, then hit them twelve times to receive seven progress lights and 750,000 points.
+Secret Mission:  Hit the yellow, red, and then green wormhole to receive ten progress lights and 1,500,000 points.
+
+Captain and Lt. Commander
+
+The following Captain and Lt. Commander missions, what you need to do to accomplish each one, and the rewards you receive are described below:
+
+Stray Comet:  Light up the right hazard target bank, then hit the hyperspace kickout to receive eight progress lights and 1,000,000 points.
+Space Radiation:  Light up the left hazard target bank, and then put the ball in any wormhole to receive eight progress lights and 1,000,000 points.
+Black Hole Threat:  Upgrade the launch bumpers (using the launch lanes), then put the ball in the black hole kickout.
+Cosmic Plague:  Roll the flags 75 times, then hit the space warp rollover to receive  eleven progress lights and 1,750,000 points.
+
+Commander and Commodore
+
+The following commander and commodore missions, what you need to do to accomplish each one, and the rewards you receive are described below:
+
+Satellite Retrieval:  Hit remote attack bumper up in the left corner five times to receive  nine progress lights and 1,250,000 points.
+Recon Mission:  Send the ball down any lanes 15 times to receive nine progress lights and 1,250,000 points.
+Doomsday Machine:  Send the ball down the out lanes three times to receive nine progress lights and 1,250,000 points.
+Time Warp:  Hit rebounds 25 times, and then send the ball up the launch ramp or into the hyperspace kickout. If  you send the ball up the launch ramp, you move up one rank. If you put the ball in the hyperspace kickout, you lose a rank. You receive 12 progress lights and 2,000,000 points.
+
+Admiral and Fleet Admiral
+
+The following Admiral and Fleet Admiral missions, what you need to do to accomplish each one, and the rewards you receive are described below:
+
+Secret Mission:  Same as for Ensign and Lieutenant.
+Cosmic Plague:  Same as for Captain and Lt. Commander.
+Time Warp:  Same as for Commander and Commodore.
+Maelstrom:  Hit any drop target three times, and then hit any spot target three times, then pass the ball down any lane five times, then up the fuel chute, then up the launch ramp, then hit one of the flags, then put the ball in a wormhole, then hit the hyperspace kickout.  Receive eighteen  progress lights and 5,000,000 points. All table lights are turned on when you complete the Maelstrom mission.
+
+
+4.3  Fuel
+
+The amount of fuel left in your ship is shown by the number of fuel lights turned on in the fuel chute (on the left side of the table). You can light fuel lights by rolling the ball over them, by sending the ball down the bonus lane, or by hitting all the fuel targets in the upper-left corner of the table.
+
+When the last fuel light is off, the ship is grounded, and the current mission is aborted.
+
+
+5.0  	Table Components
+
+5.1  Kickers, Bumpers, Rebounds, and Center Posts
+
+Attack Bumpers
+These are the four bumpers located at the top of the table. The number of points you receive when you hit bumpers depends on their status.
+
+		Status		Number of Points
+
+		Blue		500
+		Green		1000 
+		Yellow		1500 
+		Red		2000 
+
+Attack bumpers are upgraded each time all three re-entry lights are turned on. After 60 seconds, the attack bumpers are reset to the next lower status.  
+
+Launch Bumpers 
+These are the 3 bumpers located on the ramp. The number of points you receive when you hit bumpers depends on their status.
+
+		Status		Number of Points
+			
+		Blue		1500 points
+		Green		2500 points
+		Yellow		3500 points
+		Red		4500 points
+
+Launch bumpers are upgraded to the next higher status every time all three launch lane lights are turned on.  After sixty seconds, launch bumpers reset to the next lower status.
+
+Rebounds
+There are four rebounds on the table. Two of them are located just above the flippers in the triangle shaped table pieces. The other two are just below the attack bumpers. Each time you hit a rebound you receive 500 points.
+
+Kickers
+The kickers are located at the bottom of each out lane. When the ball hits a kicker, it is ejected up and back into play. You can open the kicker gates by hitting all the hazard targets (the right targets for the right kicker; the left targets for the left kicker).
+
+Center Post
+The center post is a peg that pops up between the flippers and helps to keep the ball from draining. You can raise the center post by hitting the hyperspace kickout three times. It will stay raised for 60 seconds before sinking back into the table.  
+
+
+5.2  Chutes, Lanes, Ramps, and Wormholes
+
+Launch Ramp
+The launch ramp is located on the left side of the table. If any lights at the base of the ramp are lit, you receive the following:
+
+Launch reflex shot light			Reflex shot award.
+Time warp forward light		See Time Warp Mission.
+Mission acceptance light		Engages currently available mission. See Missions.  
+No lights   				5,000 points.
+
+When the ball drains from the launch ramp, the launch reflex shot light is turned on.
+
+Re-Entry Lanes
+These are the three lanes at the top of the table. When the ball rolls through one of these lanes, you receive 500 points and the re-entry light just above it is turned on or off.  If all three re-entry lights are on, the attack bumpers are upgraded. 
+
+Launch Lanes
+These are the three lanes in the launch ramp. When the ball rolls through one of these lanes, you receive 500 points and the launch light above the lane are turned on or off. If all three launch lights are turned on, the launch bumpers are upgraded. 
+
+Out Lanes
+These are the outer lanes at the bottom of the table where the ball can potentially drain.  Usually you receive 20,000 points, but if the extra ball light above the lane is on, then you also receive an extra ball.
+
+Return Lanes
+These are the inner lanes at the bottom of the table which return the ball to the flippers.  If the ball rolls down one of these lanes, you receive 5,000 points. If the light above a lane is on, you receive 10,000 points.
+
+Bonus Lane
+This is the lane at the bottom of the table on the right side, between the out lane and the return lane. If the ball rolls down this lane, you receive 10,000 points, and your ship is re-fueled. If the bonus light is on, then you also receive a bonus. However, the bonus is not reset.
+
+Hyperspace Chute and Kickout
+The hyperspace chute is located on the upper-right side of the table. At the end of the chute is the hyperspace kickout. If the ball lands in the hyperspace kickout, you receive one of the following awards, depending on how many hyperspace lights are on:
+
+	Number of Lights	Award
+-
+	Zero			5000 points
+	One			bonus
+	Two			center post, plus 20,000 points
+	Three			extra ball lights turned on, plus 50,000 points
+	Four			gravity well, plus 150,000 points
+
+When the ball is ejected from the hyperspace chute, one more hyperspace lights is turned on. hyperspace lights are reset after 60 seconds.
+
+Additional awards are given depending on the lights that are on:
+
+	Type of Light				Award
+
+	Hyperspace reflex shot light		Reflex shot award
+
+	Time warp light				See Time Warp
+
+	Maelstrom light				Flag lights turned on
+						All field multiplier lights turned on
+						Medal lights turned on
+						Booster lights turned on
+						Return lane lights turned on
+						Extra ball lights turned on
+						Center post activated
+						Bonus turned on
+						Bonus turned on
+						Gravity well activated
+						5,000,000 points awarded
+	
+Wormholes
+There are three wormholes on the table: red, green, and yellow, as shown by the color of the light on top of the wormhole. A triangular wormhole destination light is located in front of each wormhole. You turn on a wormhole destination light by hitting the space warp target near the entrance of the hyperspace chute.
+
+When the ball goes into a wormhole, one of four things can happen:
+
+•	If the wormhole destination light is off, the ball is ejected from the same wormhole.
+•	If the wormhole destination light is yellow, the ball is ejected from the yellow wormhole.
+•	If the wormhole destination light is red, the ball is ejected from the red wormhole.
+•	If the wormhole destination light is green, the ball is ejected from the green wormhole.
+
+Points are awarded as follows:  
+
+•	If the wormhole destination light is off, you receive 1,000 points.
+•	If the wormhole destination light is the same color as the wormhole, you receive 2,000 points and you a replay of the current ball.
+•	If the wormhole destination light is a different color, you receive 5,000 points.
+
+5.3  Flippers
+
+Besides hitting the ball, each time you move a flipper, the re-entry lights and launch lights are rotated clockwise if you move the right flipper, and counter-clockwise if you move the left flipper.
+
+5.4  Plunger
+
+When you launch the ball, it must reach at least the first deployment light to enter the table. When it reaches this light, the reflex shot lights are turned on. If the ball drains within the first 15 seconds, you get to replay the ball.
+
+5.5  Target Banks
+
+Booster Target Bank
+The booster target bank is made up of the drop targets located on the right side of the table.  For each target you drop, you receive 500 points. When you drop all targets, you receive 5,000 points, and these play modes are set in the following order:
+
+	Play Mode			Effect
+
+	Flags upgraded			You receive 2,500 points per flag rotation.
+
+	Bonus activated		Points are added to the bonus every time points are
+					added to the score.
+
+	Jackpot activated		Points are added to the jackpot every time points 
+					are added to the regular score.
+
+	Bonus hold			The bonus is not reset when the ball drains.
+		
+Medal Target Bank
+These are the drop targets located just below the bumpers in the center of the table.  Each light represents an award:
+
+	First award		Level one commendation	10,000 points
+	Second award		Level two commendation	50,000 points
+	Third award		Level three commendation	Extra ball
+
+In addition, if you drop each target, you receive 1,500 points.
+
+Field Multiplier Target Bank
+These are the drop targets located in the upper-left area of the table, near the attack bumpers. When you drop a target, you receive 500 points. When you drop all the targets, the next field multiplier light is turned on and you receive 1,500 points. All points scored on the table are multiplied as follows:
+
+		First multiplier light		Two times
+		Second				Three times
+		Third				Five times
+		Fourth				Ten times
+
+The topmost field multiplier light that is lit is reset after 60 seconds.
+
+Fuel Target Bank
+These are the spot targets located in the upper-left corner of the table. If all fuel target lights are on, the ship is re-fueled. When you hit a fuel target, you receive 750 points.
+
+Mission Target Bank
+These are the spot targets located to the right of the launch ramp in the lower portion of the table. When you hit the mission target, you receive 1,000 points and are notified of the mission that is associated with that target. If all the mission lights are on, you get an extra mission. The following missions are available for each rank:
+
+					Cadet
+      		First light				Re-entry training
+		Second light				Launch training
+		Third light				Target practice
+		All lights				Science mission
+
+				Ensign and Lieutenant
+		First light				Bug hunt
+		Second light				Rescue mission
+		Third light				Alien menace
+		All lights				Secret mission
+
+				Captain and Lt. Commander
+		First light				Stray comet
+		Second light				Space radiation
+		Third light				Black hole threat
+		All lights				Cosmic plague
+
+				Commander and Commodore
+		First light				Satellite retrieval
+		Second light				Recon mission
+		Third light				Doomsday machine
+		All lights				Time warp
+
+				Admiral and Fleet Admiral
+		First light				Secret mission
+		Second light				Cosmic plague
+		Third light				Time warp
+		All lights				Maelstrom
+
+Only the most recent mission that you activated is available at a time. If you send the ball up the launch ramp, that mission is activated. While a mission is active, the mission target bank will still give you points but won't provide any new missions until you either abort or complete the active mission.
+
+Left Hazard Target Bank
+These are the spot targets located to the left of the attack bumpers. When you hit a hazard target, you receive 750 points. If all the left hazard lights are on, then the left kicker is activated.
+
+Right Hazard Target Bank
+These are the spot targets located to the left of the attack bumpers. When you hit a hazard target, you receive 750 points. If all the right hazard lights are on, then the right kicker is activated.
+
+Space Warp Spot Target
+These are located at the entrance to the hyperspace chute. When you hit one of these, you receive 750 points and the wormhole destination lights are turned on, activating the wormholes.
+
+5.6  Lights
+
+Bonus Light
+These are the yellow circular lights located in the  bonus lane on the left side of the table.
+
+Booster Lights
+These are the four yellow circular lights located in front of the booster target bank.
+
+Center Post Light
+These are the yellow circular lights located just above center post, between the flippers.
+
+Deployment Lights
+These are the six yellow square lights located on top of the deployment chute.
+
+Extra Ball Lights
+These are the yellow circular light located above each out lane.
+
+Field Multiplier Lights
+These are the four yellow circular lights located just below the field multiplier target bank in the upper-left area of the table.  
+
+Flag Lights
+These are the yellow circular light located underneath each flag.
+
+Fuel Lights
+These are the six multicolored square lights located in the fuel chute.
+
+Fuel Target Lights
+These are the three yellow circular lights located by the attack bumper in the upper-left corner of the table.
+
+Gravity Well Light
+This is the red circular light located in the center of the table.
+
+Hyperspace Lights
+These are the five blue square light located on top of the hyperspace chute.  
+
+Hyperspace Reflex Shot Light
+This is the first blue triangular light located at the entrance of the hyperspace chute.
+
+Space Warp Target Light
+This is the yellow circular light located in front of the space warp target.
+
+Kicker Lights
+This is the yellow triangular light located above the left and right kickers.
+
+Kicker Path Lights
+This is the purple triangular light located above the left and right kickers on the table surface.
+
+Launch Lights
+These are the three yellow circular lights located above the launch lanes.
+
+Launch ramp Reflex Light
+This is the first blue triangular light located in front of launch ramp entrance. 
+
+Left Hazard Lights
+These are the three yellow circular lights located in front of the left hazard target bank.
+
+Maelstrom Light
+This is the third blue triangular light located at the entrance of the hyperspace chute.
+
+Medal Lights
+These are the three multicolored circular lights located in front of the medal target bank.
+
+Mission Acceptance Light
+This is the third blue triangular light located in front of launch ramp entrance. 
+
+Mission Active Light
+This is the red circular light located in the launch ramp.
+
+Mission Lights
+These are the three yellow circular lights located in front of the mission target bank.
+
+Progress Lights
+These are the 18 blue circular lights in a circle located in the center of the table.
+
+Rank Lights
+These are the nine orange circular lights in a circle located in the center of the table.
+
+Re-Entry Lights 
+These are the three yellow circular lights located above the re-entry lanes at the top of the table.
+
+Replay Light
+This is the red circular light located under the left flipper.
+
+Return Lane Lights
+These are the yellow circular lights located above each return lane.
+
+Right Hazard Lights
+These are the three yellow circular lights located in front of the right hazard target bank.
+
+Shoot Again Light
+This is the red circular light located under the right flipper.
+
+Tilt Light
+This is a large X near the mission lights.
+
+Time Warp Forward Light
+This is the second blue triangular light located in front of the launch ramp entrance. 
+
+Time Warp Backward Light
+This is the second blue triangular light located at the entrance of the hyperspace chute.
+
+Wormhole Destination Lights
+This is one multicolored triangular light located in front of each wormhole.
+
+Wormhole Lights
+These are located above the wormholes.
+
+5.7  Miscellaneous Components
+
+Black Hole Kickout
+This is located just under the ramp. If the ball lands here, you receive 5,000 points.
+
+Space Warp Rollover
+The small green circular light slightly raised and located in the upper left part of the table. If the ball moves over this light, you receive 10,000 points, and the return lane lights are turned on.
+
+Flags
+Flags are located in the fuel chute and hyperspace chute. If the flag light is off, you receive 500 points when you turn a flag. If the flag light is on, you receive 2,500 points when you turn a flag.
+
+If the wormhole destination lights are on, they change to yellow,  red, and then green when you turn a flag.
+
+
+6.0  	General Table Rules
+
+6.1   Ball Draining
+
+When the ball drains, you are awarded the current value of the bonus. The lights on the table are all reset, except for the rank and progress lights.
+
+6.2   Replays
+
+Sometimes you may get to replay the ball. When this happens, nothing on the table resets or changes, and you do not receive the bonus. You get only one replay at a time. The replay light is located under the left flipper.
+
+6.3   Shoot Again
+
+Similar to a replay, if the ball drains in the first 15 seconds of play, you may shoot the ball again. When you launch the ball again, the shoot again light is turned on. The shoot again light is located under the right flipper.
+
+6.4   Extra Balls
+
+You can receive an unlimited number of extra balls during the game. These are played immediately after the current ball has drained. The table is still reset, but the ball counter is not incremented.
+
