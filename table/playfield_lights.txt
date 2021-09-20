@@ -1,0 +1,141 @@
+Plafield Light insert list
+
+insert key:
+y - yellow
+b - blue
+r - red
+p - purple
+o - orange
+g - green
+
+r - round
+s - square
+t - triangle
+b - plain bulb
+
+t - tiny
+s - small
+n - normal
+l - large
+
+
+Bonus lights
+y-r-s 3x (in bonus lane)
+
+Booster Target lights
+y-r-n 4x (low target bank)
+
+Center post light
+y-r-n 1x
+
+Deployment Lights
+6x yellow on top of deployment chute, takes no insert (will have to think of something)
+
+Extra ball lights
+y-r-n 2x (on top of left and right outlane (NOT KICKER LANE))
+
+Flag lights
+??!!
+
+Fuel lights
+manual says 6x but i only see 5, whatever
+
+b-s-n 1x
+p-s-n 1x
+r-s-n 1x
+y-s-n 2x
+
+Fuel target lights
+??!!
+
+Gravity Well light
+r-r-l 1x
+gonna have to fit a magnet in there somehow, no idea if i can implement that :>
+
+Hyperspace lights
+4x blue on top of hyperspace, see deployment lights
+
+Hyperspace reflex shot light
+b-t-l 1x (first blue triangle in front of hyperspace)
+
+Space warp Target light
+??!!
+
+Kicker lights
+y-r-n 2x (on top of kicker lane)
+
+Kicker path lights
+quote: "This is the yellow triangular light located above the left and right kickers."
+p-t-s 2x (idk what these are for and when they light)
+
+Launch lights
+y-t-s 2x (small yellow lights above launch ramp)
+
+Launch ramp reflex light
+"This is the first blue triangular light located in front of launch ramp entrance."
+??!!
+
+Left hazard light
+??!!
+
+Maelstrom light
+b-t-l 1x (third blue triangle in front of hyperspace)
+
+Medal lights
+b-r-n 1x
+o-r-n 1x
+p-r-n 1x
+(below middle target bank)
+
+Mission Acceptance light
+??!!
+
+Mission Active Light
+r-r-n 1x (in top of launch ramp)
+
+Mission lights 
+y-r-s 3x (lights inside launch ramp)
+
+Progress light
+b-r-n 18x (blue lights in big circle)
+
+Rank lights
+o-r-n 9x (orange lights in big circle)
+
+Re-Entry lights
+y-r-n 3x (above top pop bumpers)
+
+Replay light
+r-r-n 1x (under left flipper)
+
+Left & Right Hazard Target Bank
+2x y-r-n 3x (left and right of top pop bumpers)
+
+Shoot Again light
+r-r-n 1x (under right flipper)
+
+Tilt light
+Large x near mission lights
+might be omitted.
+
+Time warp forward light
+y-t-s 1x (Second triangle light of launch ramp)
+
+Time warp backward light
+b-t-l 1x (Second triangle light of hyperspace)
+
+Return lane lights
+y-r-n 2x (beneath slingshots above return lane)
+
+Worm hole destination lights
+r-t-n 1x
+y-t-n 1x
+g-t-n 1x
+(indicates in which wormhole to shoot)
+
+Wormhole lights
+r-b-n 1x
+y-b-n 1x
+g-b-n 1x
+(above wormholes, indicates ball exit)
+will probably make use of colored LEDs or silicone caps.
